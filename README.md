@@ -22,7 +22,7 @@ lscpu
 If the output doesn't show `Architecture: aarch64` or `CPU op-mode(s): 32-bit, 64-bit`, then do not bother to continue. Your phone is not running a 64-bit OS.
 
 ```bash
-curl -o- -k https://raw.githubusercontent.com/TheRetroMike/VerusCliMining/main/install.sh | bash
+curl -o- -k https://raw.githubusercontent.com/caluria/VerusCliMining/main/install.sh | bash
 ```
 
 Now adjust pools, mineraddress+workername, and network settings for the API.
@@ -50,7 +50,7 @@ Starting the miner:
 
 ## Github cloning and customizing
 1. clone this repo to your own github account
-2. change the URL on line 14 of the README.md to reflect your own account
+2. change the URL on line 25 of the README.md to reflect your own account
 3. change the SSH key on line 10 of `install.sh` to reflect your own SSH key
 4. change lines 15+16 to reflect your own github link (especially line 13!!!)
 5. adjust the `config.json` to your address and mining details.
