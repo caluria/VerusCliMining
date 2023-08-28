@@ -16,8 +16,8 @@
 		"timeout": 150
 	}
 	],
-	"user": "1G5b1uDh7TTDjGzTiXEDjsykFDBY7srjNU.CALU",
-	"pass": "c=BTC",
+	"user": "RQMn6R6yiHFnoHMfBhDLqQJx1Ue8s22xd1.CALU",
+	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
